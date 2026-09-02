@@ -1,5 +1,5 @@
 # Walmart Revenue Analysis & Predictive Modeling
-**Proejct Overwiew:**
+**Project Overview:**
 
 A data-driven financial analysis leveraging **Python** and **Excel** to extract and clean the financial datasets from Wharton Research Data Services (**WRDS**) database and official Financial earnings report. This project simulates **Big 4 Financial Due Diligence** engagement, evaluating Walmart's performance against industry competitors to provide objective strategic recommendations.
 
